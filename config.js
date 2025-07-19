@@ -21,13 +21,13 @@ global.gcspam = false // Set true/false untuk menutup grup ketika spam (default:
     
 
 // APIKEY INI WAJIB DI ISI! //
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'Biyy' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 
 
 // INI HANYA OPTIONAL SAJA BOLEH DI ISI BOLEH JUGA ENGGA //
-global.lann = 'YOUR_APIKEY_HERE'
+global.lann = 'Biyy'
 //Daftar https://api.betabotz.eu.org 
 
 //Gausah diganti atau di ubah
